@@ -1,0 +1,27 @@
+{
+  "name": "fdsql",
+  "version": "0.1.0",
+  "description": "SQL Mixins for FluxData",
+  "homepage": "https://github.com/chromecide/fdsql",
+  "keywords": [
+    "FluxData",
+    "events",
+    "event-driven",
+    "framework",
+    "Mixins",
+    "fdmixin",
+    "fdsql"
+  ],
+  "author": {
+    "name": "Justin Pradier",
+    "email": "chromecide@chromecide.com",
+    "url": "http://chromecide.com/"
+  },
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chromecide/fdsql.git"
+  },
+  "main": "index.js"
+}
